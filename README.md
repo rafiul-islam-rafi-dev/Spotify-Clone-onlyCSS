@@ -1,1 +1,43 @@
-# Spotify-Clone-onlyCSS
+# 17. Project (CSS)
+
+⏱️ **Duration:**  
+📚 **Course:** Web Development  
+📁 **Module:** CSS
+
+## 📌 Class Overview
+
+...
+
+## Topics Covered:
+
+0. Download (assets)
+
+### 📄 File:
+
+- `` 
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+- ``
+
+## 🎯 Learning Outcome
+
+...
+
+## Learning Style:
+
+- Small sessions (2–10 minutes)
+- Code + commit after each session
+
+## 🗂️ Folder Structure
+
+....
