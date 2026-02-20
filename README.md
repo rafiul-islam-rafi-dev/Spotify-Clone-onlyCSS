@@ -11,6 +11,8 @@
 ## Topics Covered:
 
 0. Download (assets)
+1. Setting Up
+2. Basics
 
 ### 📄 File:
 
