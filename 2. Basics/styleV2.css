@@ -1,0 +1,10 @@
+/* Userversal "*" na diye body dileo problem nai */
+body {
+  font-family: "Montserrat", sans-serif;
+  /* by-default sokol margin remove kora */
+  margin: 0;
+  background-color: black;
+  color: white;
+  /* scroll jeno na hoy full body vitore sei jonno. scroll hobe sudu main-content er vitore */
+  overflow: hidden;
+}
