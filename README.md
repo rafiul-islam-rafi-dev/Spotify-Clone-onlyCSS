@@ -13,6 +13,8 @@
 0. Download (assets)
 1. Setting Up
 2. Basics
+3. Layout
+4. Sidebar (Nav)
 
 ### 📄 File:
 
