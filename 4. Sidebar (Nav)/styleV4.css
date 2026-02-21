@@ -1,0 +1,89 @@
+/* Userversal "*" na diye body dileo problem nai */
+body {
+  font-family: "Montserrat", sans-serif;
+  /* by-default sokol margin remove kora */
+  margin: 0;
+  background-color: black;
+  color: white;
+  /* scroll jeno na hoy full body vitore sei jonno. scroll hobe sudu main-content er vitore */
+  overflow: hidden;
+}
+
+.main{
+  display: flex;
+  /* total viewport niyar jonno */
+  height: 100vh;
+}
+
+.sidebar{
+  background-color: green;
+  width: 340px;
+  border-radius: 1rem; /* 1rem = 16px, rm dilam jate screen size choto korlei jeno edge gulao choto hoy*/
+}
+
+.main-content{
+  background-color: #121212;
+  /* sobar content thik vabe set hobar por baki sob jayga jeno main-content pai */
+  flex: 1;
+  border-radius: 1rem; /* 1rem = 16px, rm dilam jate screen size choto korlei jeno edge gulao choto hoy*/
+  /* content jokhon besi boro hobe tokhon sudu "scrollbar" dekhabe */
+  overflow: auto;
+}
+
+.music-player{
+  background-color: yellow;
+  /* position jeno kokhonoi change na hoy */
+  position: fixed;
+  /* nicer dike rakhar jonno */
+  bottom: 0;
+  /* left theke right sob jayga jeno nite pare */
+  width: 100%;
+  height: 72px;
+}
+
+/* sidebar, nav, nav-option er <a> tag er jonno */
+a{
+  text-decoration: none;
+  color: white;
+}
+
+/* nav er jonno jekhane 2ta component ache*/
+.nav{
+  background-color: #121212;
+  border-radius: 1rem;
+  /* sob div same line(horizontal) a asbe */
+  display: flex;
+  /* akhon vertical line a nibo */
+  flex-direction: column;
+  height: 100px;
+  /* center a niyar jonno (normaly "justify-content" horizontally center a ase but akhane direction amara vertical korchi tai vertically center korbe) */
+  justify-content: center;
+  /* inspect kore theke px k convert kore rem a dilam jate font size er dipend kore padding kaj kore */
+  padding: 0.5rem 0.75rem;
+}
+
+.nav-option{
+  /* 2ta line er majhe gap */
+  line-height: 2.5rem;
+  /* hover korar age jeno text ektu dark color lage, opre hover kore light korbo */
+  opacity: 0.7;
+  /* sob side a "0.5rem" and extra ero left-right side a 0.75rem */
+  padding: 0.5rem 0.75rem;
+}
+
+/* hovar korchi */
+.nav-option:hover{
+  opacity: 1;
+}
+
+
+
+.nav-option i{
+  font-size: 1.25rem;
+}
+
+.nav-option a{
+  font-size: 1rem;
+  /* icon theke ektu left side a space */
+  margin-left: 1rem;
+}

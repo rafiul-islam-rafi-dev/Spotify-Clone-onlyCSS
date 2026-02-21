@@ -1,0 +1,42 @@
+/* Userversal "*" na diye body dileo problem nai */
+body {
+  font-family: "Montserrat", sans-serif;
+  /* by-default sokol margin remove kora */
+  margin: 0;
+  background-color: black;
+  color: white;
+  /* scroll jeno na hoy full body vitore sei jonno. scroll hobe sudu main-content er vitore */
+  overflow: hidden;
+}
+
+.main{
+  display: flex;
+  /* total viewport niyar jonno */
+  height: 100vh;
+}
+
+.sidebar{
+  background-color: #121212;
+  width: 340px;
+  border-radius: 1rem; /* 1rem = 16px, rm dilam jate screen size choto korlei jeno edge gulao choto hoy*/
+}
+
+.main-content{
+  background-color: #121212;
+  /* sobar content thik vabe set hobar por baki sob jayga jeno main-content pai */
+  flex: 1;
+  border-radius: 1rem; /* 1rem = 16px, rm dilam jate screen size choto korlei jeno edge gulao choto hoy*/
+  /* content jokhon besi boro hobe tokhon sudu "scrollbar" dekhabe */
+  overflow: auto;
+}
+
+.music-player{
+  background-color: yellow;
+  /* position jeno kokhonoi change na hoy */
+  position: fixed;
+  /* nicer dike rakhar jonno */
+  bottom: 0;
+  /* left theke right sob jayga jeno nite pare */
+  width: 100%;
+  height: 72px;
+}
