@@ -15,6 +15,8 @@
 2. Basics
 3. Layout
 4. Sidebar (Nav)
+5. Sidebar (Library)
+6. Library Boxes
 
 ### 📄 File:
 
