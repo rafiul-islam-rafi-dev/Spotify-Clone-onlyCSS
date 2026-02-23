@@ -17,6 +17,8 @@
 4. Sidebar (Nav)
 5. Sidebar (Library)
 6. Library Boxes
+7. Sticky Nav
+8. Cards
 
 ### 📄 File:
 
