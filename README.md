@@ -19,6 +19,8 @@
 6. Library Boxes
 7. Sticky Nav
 8. Cards
+9. Footer Line
+10. Setting up Player
 
 ### 📄 File:
 
