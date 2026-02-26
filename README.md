@@ -21,6 +21,8 @@
 8. Cards
 9. Footer Line
 10. Setting up Player
+11. Player Controls
+12. Playback Bar
 
 ### 📄 File:
 
