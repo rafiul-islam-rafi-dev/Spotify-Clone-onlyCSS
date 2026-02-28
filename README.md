@@ -28,6 +28,8 @@
 
 - `indexV1.html` 
 - `styleV1.css`
+- `indexV2.html` 
+- `styleV2.css`
 - ``
 - ``
 - ``
