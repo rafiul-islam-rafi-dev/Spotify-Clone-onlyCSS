@@ -36,6 +36,8 @@
 - `styleV4.css`
 - `indexV5.html` 
 - `styleV5.css`
+- `indexV6.html` 
+- `styleV6.css`
 - ``
 - ``
 - ``
