@@ -40,6 +40,8 @@
 - `styleV6.css`
 - `indexV7.html` 
 - `styleV7.css`
+- `indexV8.html` 
+- `styleV8.css`
 - ``
 - ``
 - ``
