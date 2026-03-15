@@ -44,9 +44,6 @@
 - `styleV8.css`
 - `indexV9.html` 
 - `styleV9.css`
-- ``
-- ``
-- ``
 
 ## 🎯 Learning Outcome
 
