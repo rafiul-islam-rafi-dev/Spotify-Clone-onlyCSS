@@ -44,6 +44,8 @@
 - `styleV8.css`
 - `indexV9.html` 
 - `styleV9.css`
+- `indexV10.html` 
+- `styleV10.css`
 
 ## 🎯 Learning Outcome
 
