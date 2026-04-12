@@ -48,6 +48,8 @@
 - `styleV10.css`
 - `indexV11.html` 
 - `styleV11.css`
+- `indexV12.html` 
+- `styleV12.css`
 
 ## 🎯 Learning Outcome
 
