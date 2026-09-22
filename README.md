@@ -53,7 +53,7 @@
 
 ## 🎯 Learning Outcome
 
-...
+.......
 
 ## Learning Style:
 
